@@ -7,3 +7,6 @@ Data used for training the models both Few Shot and Fine Tuning is taken from th
 
 ## Code
 The code is present in the src folder. There are three 'ipynb' files used to implement the fine-tuning approach, few shot approach, and the translation.
+
+## References
+[1] [ClidSum paper](https://aclanthology.org/2022.emnlp-main.526.pdf)
